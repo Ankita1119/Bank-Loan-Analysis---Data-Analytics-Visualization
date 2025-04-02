@@ -15,3 +15,10 @@ Classify loans as good or bad based on financial performance.
 Develop interactive dashboards for better data visualization.
 
 Enhance analytical skills in SQL, Power BI, and data storytelling.
+
+## 🗄️ Tech Stack & Tools Used
+
+✅ Database Management: MS SQL Server  
+✅ Data Analysis: SQL Queries  
+✅ Data Visualization: Power BI  
+✅ Software Used: SQL Server Management Studio (SSMS), Excel  
