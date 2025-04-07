@@ -67,6 +67,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 
 ### Dashboard 1: Loan Summary
 
+
 #### 📍 KPIs Analyzed:
 ✔ Total Loan Applications (including Month-to-Date & Month-over-Month Trends)  
 ✔ Total Funded Amount  
