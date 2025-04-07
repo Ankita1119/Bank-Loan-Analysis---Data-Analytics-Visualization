@@ -4,6 +4,7 @@
 
 **This project is a comprehensive bank loan analysis designed to derive valuable insights from loan data using MS SQL Server & Power BI. The objective is to analyze key metrics, assess loan performance, and create visually compelling dashboards that facilitate decision-making for financial institutions.**
 
+
 ## 🧩 Business Problem & Solution
 
 ### 🏦 The Problem:
@@ -21,6 +22,7 @@
 - Clear visual dashboards to track KPIs like funded amount, interest rate, DTI ratio
 
 - Insightful reports to help financial institutions make data-driven lending decisions
+- 
 
 ## 🏆 Key Objectives
 
@@ -41,6 +43,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✅ Data Visualization: Power BI  
 ✅ Software Used: SQL Server Management Studio (SSMS), Excel  
 
+
 ## 📊 Data Processing & Analysis
 
 ### Part 1: SQL - Data Preparation & Analysis
@@ -59,6 +62,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Implementing time intelligence functions (MTD, MoM, etc.)   
 ✔ Utilizing bar charts, donut charts, line graphs, tree maps, and maps  
 **📌 The complete Power BI .pbix file is also included in this repository to explore the final dashboard.**
+
 
 ## 📌 Key Business Insights
 
@@ -90,6 +94,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ### Dashboard 3: Detailed Loan Data
 ![Image](https://github.com/user-attachments/assets/45c6073a-0ff5-48a6-9b8f-7bc5f0b611f0)
 
+
 #### 📍 Objective:
 ✔ Create a user-friendly consolidated view of key loan metrics.  
 ✔ Provide insights into borrower profiles and loan performance.    
@@ -100,6 +105,7 @@ You can view the full interactive dashboard live here: 👉 https://github.com/A
 
 ## 🔗 Queries Access
 You can view the full interactive dashboard live here: 👉 https://github.com/Ankita1119/Bank-Loan-Analysis---Data-Analytics-Visualization/raw/main/BankLoanAnalsis.sql
+
 
 ## 🏁 Conclusion
 **This project showcases how SQL and Power BI can be leveraged to perform in-depth financial analysis and create insightful dashboards for bank loan assessments. The interactive reports & KPI-driven approach help in making data-driven decisions efficiently.**
