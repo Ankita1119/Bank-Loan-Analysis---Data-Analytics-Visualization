@@ -4,6 +4,24 @@
 
 This project is a comprehensive bank loan analysis designed to derive valuable insights from loan data using MS SQL Server & Power BI. The objective is to analyze key metrics, assess loan performance, and create visually compelling dashboards that facilitate decision-making for financial institutions.
 
+## 🧩 Business Problem & Solution
+
+### 🏦 The Problem:
+
+**Banks often face challenges in identifying potential defaulters, understanding borrower risk, and managing overall loan portfolios. Without proper analysis, lending institutions may experience financial losses due to poor loan decisions and delayed repayments.**
+
+### 💡 The Solution:
+
+- By analyzing historical loan data using SQL and Power BI, this project provides:
+
+- A detailed view of loan distribution and repayment behavior
+
+- Identification of patterns behind good and bad loans
+
+- Clear visual dashboards to track KPIs like funded amount, interest rate, DTI ratio
+
+- Insightful reports to help financial institutions make data-driven lending decisions
+
 ## 🏆 Key Objectives
 
 Perform end-to-end data analysis on loan applications, funding, and repayments.
