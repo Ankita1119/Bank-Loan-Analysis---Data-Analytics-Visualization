@@ -4,8 +4,8 @@
 
 This project is a comprehensive bank loan analysis designed to derive valuable insights from loan data using MS SQL Server & Power BI. The objective is to analyze key metrics, assess loan performance, and create visually compelling dashboards that facilitate decision-making for financial institutions.
 
-🔗 Dashboard Access
-You can view the full interactive dashboard live here: https://github.com/Ankita1119/Bank-Loan-Analysis---Data-Analytics-Visualization/blob/main/Dashboard_Analysis.pbix
+## 🔗 Dashboard Access
+You can view the full interactive dashboard live here: 👉 https://github.com/Ankita1119/Bank-Loan-Analysis---Data-Analytics-Visualization/blob/main/Dashboard_Analysis.pbix
 
 ## 🧩 Business Problem & Solution
 
