@@ -22,3 +22,77 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✅ Data Analysis: SQL Queries  
 ✅ Data Visualization: Power BI  
 ✅ Software Used: SQL Server Management Studio (SSMS), Excel  
+
+## 📊 Data Processing & Analysis
+
+### Part 1: SQL - Data Preparation & Analysis
+✔ Importing & Cleaning Data into MS SQL Server  
+✔ Creating database and tables  
+✔ Writing SQL queries to extract meaningful insights  
+✔ Performing data aggregation and filtering  
+✔ Implementing CTE (Common Table Expressions) for better query optimization  
+✔ Using Date functions, Group By, Order By, Partitioning, and more
+
+### Part 2: Power BI - Data Visualization
+✔ Connecting Power BI to MS SQL Server  
+✔ Creating custom metrics & KPIs for loan performance  
+✔ Designing interactive dashboards & reports  
+✔ Implementing time intelligence functions (MTD, MoM, etc.)   
+✔ Utilizing bar charts, donut charts, line graphs, tree maps, and maps
+
+## 📌 Key Business Insights
+
+### Dashboard 1: Loan Summary
+
+#### 📍 KPIs Analyzed:
+✔ Total Loan Applications (including Month-to-Date & Month-over-Month Trends)  
+✔ Total Funded Amount  
+✔ Total Amount Received  
+✔ Average Interest Rate & Debt-to-Income (DTI) Ratio
+
+#### 📍 Good vs Bad Loans Analysis
+✔ Good Loan Percentage & Funded Amount  
+✔ Bad Loan Percentage & Funded Amount  
+✔ Loan Status Grid View for a consolidated report
+
+### Dashboard 2: Loan Overview
+
+#### 📍 Key Data Visualizations:
+✔ Monthly Trends (Line Chart) - Identifying seasonality & trends  
+✔ Regional Loan Distribution (Map Visualization)  
+✔ Loan Term Breakdown (Donut Chart)  
+✔ Employment Length vs Loan Approvals (Bar Chart)   
+✔ Loan Purpose Analysis (Bar Chart)  
+✔ Home Ownership Impact on Loan Disbursements (Tree Map)
+
+### Dashboard 3: Detailed Loan Data
+
+#### 📍 Objective:
+✔ Create a user-friendly consolidated view of key loan metrics.  
+✔ Provide insights into borrower profiles and loan performance.    
+✔ Offer a one-stop solution for in-depth analysis.
+
+## 🏁 Conclusion
+
+**This project showcases how SQL and Power BI can be leveraged to perform in-depth financial analysis and create insightful dashboards for bank loan assessments. The interactive reports & KPI-driven approach help in making data-driven decisions efficiently.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
