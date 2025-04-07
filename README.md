@@ -91,7 +91,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Home Ownership Impact on Loan Disbursements (Tree Map)
 
 ### Dashboard 3: Detailed Loan Data
-
+![Image](https://github.com/user-attachments/assets/45c6073a-0ff5-48a6-9b8f-7bc5f0b611f0)
 
 #### 📍 Objective:
 ✔ Create a user-friendly consolidated view of key loan metrics.  
