@@ -7,6 +7,9 @@ This project is a comprehensive bank loan analysis designed to derive valuable i
 ## 🔗 Dashboard Access
 You can view the full interactive dashboard live here: 👉 https://github.com/Ankita1119/Bank-Loan-Analysis---Data-Analytics-Visualization/raw/main/Dashboard_Analysis.pbix
 
+## 🔗 Queries Access
+You can view the full interactive dashboard live here: 👉 
+
 ## 🧩 Business Problem & Solution
 
 ### 🏦 The Problem:
