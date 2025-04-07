@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis---Data-Analytics-Visualization
+7# Bank-Loan-Analysis---Data-Analytics-Visualization
 
 ## 📌 Project Overview
 
@@ -49,7 +49,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Writing SQL queries to extract meaningful insights  
 ✔ Performing data aggregation and filtering  
 ✔ Implementing CTE (Common Table Expressions) for better query optimization  
-✔ Using Date functions, Group By, Order By, Partitioning, and more
+✔ Using Date functions, Group By, Order By, Partitioning, and more  
 **📌 The .sql file containing all queries used in this project has been attached for reference.**
 
 ### Part 2: Power BI - Data Visualization
@@ -57,7 +57,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Creating custom metrics & KPIs for loan performance  
 ✔ Designing interactive dashboards & reports  
 ✔ Implementing time intelligence functions (MTD, MoM, etc.)   
-✔ Utilizing bar charts, donut charts, line graphs, tree maps, and maps
+✔ Utilizing bar charts, donut charts, line graphs, tree maps, and maps  
 **📌 The complete Power BI .pbix file is also included in this repository to explore the final dashboard.**
 
 ## 📌 Key Business Insights
