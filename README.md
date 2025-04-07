@@ -66,7 +66,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ## 📌 Key Business Insights
 
 ### Dashboard 1: Loan Summary
-
+![Image](https://github.com/user-attachments/assets/b32df446-74ce-426b-8a5e-95719f9230f0)
 
 #### 📍 KPIs Analyzed:
 ✔ Total Loan Applications (including Month-to-Date & Month-over-Month Trends)  
@@ -80,6 +80,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Loan Status Grid View for a consolidated report
 
 ### Dashboard 2: Loan Overview
+
 
 #### 📍 Key Data Visualizations:
 ✔ Monthly Trends (Line Chart) - Identifying seasonality & trends  
