@@ -80,7 +80,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Loan Status Grid View for a consolidated report
 
 ### Dashboard 2: Loan Overview
-
+![Image](https://github.com/user-attachments/assets/aefae927-b7a8-4d24-88ef-4b21a6a7efbf)
 
 #### 📍 Key Data Visualizations:
 ✔ Monthly Trends (Line Chart) - Identifying seasonality & trends  
@@ -91,6 +91,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Home Ownership Impact on Loan Disbursements (Tree Map)
 
 ### Dashboard 3: Detailed Loan Data
+
 
 #### 📍 Objective:
 ✔ Create a user-friendly consolidated view of key loan metrics.  
