@@ -50,6 +50,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Performing data aggregation and filtering  
 ✔ Implementing CTE (Common Table Expressions) for better query optimization  
 ✔ Using Date functions, Group By, Order By, Partitioning, and more
+**📌 The .sql file containing all queries used in this project has been attached for reference.**
 
 ### Part 2: Power BI - Data Visualization
 ✔ Connecting Power BI to MS SQL Server  
@@ -57,6 +58,7 @@ Enhance analytical skills in SQL, Power BI, and data storytelling.
 ✔ Designing interactive dashboards & reports  
 ✔ Implementing time intelligence functions (MTD, MoM, etc.)   
 ✔ Utilizing bar charts, donut charts, line graphs, tree maps, and maps
+**📌 The complete Power BI .pbix file is also included in this repository to explore the final dashboard.**
 
 ## 📌 Key Business Insights
 
