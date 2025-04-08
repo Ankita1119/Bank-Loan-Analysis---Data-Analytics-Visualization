@@ -1,4 +1,4 @@
-# Bank-Loan-Analysis---Data-Analytics-Visualization
+# Bank-Loan-Analysis-Data-Analytics-Visualization
 
 ## 📌 Project Overview
 
